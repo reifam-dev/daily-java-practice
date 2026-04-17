@@ -12,5 +12,5 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-04-13 | Day 3 - Polymorphism & Method Overriding   | Day3ErrorQuiz.java<br>Day3Polymorphism.java | Demonstrated polymorphism via method overriding |
 | 2026-04-14 | Day 4 - Abstract Classes & Interfaces      | Day4ErrorQuiz.java<br>Day4Shapes.java | Used abstract class to enforce contract and polymorphism |
 | 2026-04-15 | Day 5 - Simple Number Statistics           | Day5NumberStats.java | Basic methods on array/list with proper error handling |
-| 2026-04-13 | Day 6 - String Analyzer                    | Day6ErrorQuiz.java<br>Day6StringAnalyzer.java | Basic string operations and methods |
-| 2026-04-13 | Day 7 - Temperature Converter              | Day7ErrorQuiz.java<br>Day7TemperatureConverter.java | Basic temperature conversion methods |
+| 2026-04-16 | Day 6 - String Analyzer                    | Day6ErrorQuiz.java<br>Day6StringAnalyzer.java | Basic string operations and methods |
+| 2026-04-17 | Day 7 - Temperature Converter              | Day7ErrorQuiz.java<br>Day7TemperatureConverter.java | Basic temperature conversion methods |
