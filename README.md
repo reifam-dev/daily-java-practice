@@ -16,3 +16,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-04-17 | Day 7 - Temperature Converter            | Day7ErrorQuiz.java<br>Day7TemperatureConverter.java | Basic temperature conversion methods                     |
 | 2026-04-18 | Day 8 - Number Processor                 | Day8ErrorQuiz.java<br>Day8NumberProcessor.java      | Basic list/array statistics methods                      |
 | 2026-04-20 | Day 9 - Password Validator               | Day9ErrorQuiz.java<br>Day9PasswordValidator.java    | Basic password strength validation methods               |
+| 2026-04-20 | Day 10 - Email Validator                 | Day10ErrorQuiz.java<br>Day10EmailValidator.java     | Basic email format validation methods                    |
