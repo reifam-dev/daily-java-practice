@@ -17,3 +17,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-04-18 | Day 8 - Number Processor                 | Day8ErrorQuiz.java<br>Day8NumberProcessor.java      | Basic list/array statistics methods                      |
 | 2026-04-20 | Day 9 - Password Validator               | Day9ErrorQuiz.java<br>Day9PasswordValidator.java    | Basic password strength validation methods               |
 | 2026-04-20 | Day 10 - Email Validator                 | Day10ErrorQuiz.java<br>Day10EmailValidator.java     | Basic email format validation methods                    |
+| 2026-04-21 | Day 11 - List Manager                    | Day11ErrorQuiz.java<br>Day11ListManager.java        | Basic list management operations                         |
