@@ -19,4 +19,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-04-20 | Day 10 - Email Validator                 | Day10ErrorQuiz.java<br>Day10EmailValidator.java     | Basic email format validation methods                     |
 | 2026-04-21 | Day 11 - List Manager                    | Day11ErrorQuiz.java<br>Day11ListManager.java        | Basic list management operations                          |
 | 2026-04-22 | Day 12 - Shopping Basket                 | Day12ErrorQuiz.java<br>Day12ShoppingBasket.java     | Array-based basket with add and total price               |
-| 2026-04-22 | Day 13 - Grade Calculator                | Day13ErrorQuiz.java<br>Day13GradeCalculator.java    | Grade statistics with average, pass/fail and highest mark |
+| 2026-04-23 | Day 13 - Grade Calculator                | Day13ErrorQuiz.java<br>Day13GradeCalculator.java    | Grade statistics with average, pass/fail and highest mark |
