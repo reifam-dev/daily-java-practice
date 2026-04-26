@@ -22,3 +22,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-04-23 | Day 13 - Grade Calculator                | Day13ErrorQuiz.java<br>Day13GradeCalculator.java    | Grade statistics with average, pass/fail and highest mark         |
 | 2026-04-24 | Day 14 - Book Tracker                    | Day14ErrorQuiz.java<br>Day14BookTracker.java        | Array-based book tracker with read status                         |
 | 2026-04-25 | Day 15 - Student Register                | Day15ErrorQuiz.java<br>Day15StudentRegister.java    | Array-based student register with add, remove and enrolment check |
+| 2026-04-26 | Day 16 - Cinema Booking                  | Day16ErrorQuiz.java<br>Day16CinemaBooking.java      | Array-based seat booking with book, cancel and availability check |
