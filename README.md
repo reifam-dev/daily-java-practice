@@ -24,3 +24,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-04-25 | Day 15 - Student Register                | Day15ErrorQuiz.java<br>Day15StudentRegister.java    | Array-based student register with add, remove and enrolment check |
 | 2026-04-26 | Day 16 - Cinema Booking                  | Day16ErrorQuiz.java<br>Day16CinemaBooking.java      | Array-based seat booking with book, cancel and availability check |
 | 2026-04-27 | Day 17 - Parking Lot                     | Day17ErrorQuiz.java<br>Day17ParkingLot.java         | Array-based parking lot with park, remove and availability check  |
+| 2026-04-28 | Day 18 - Café Order                      | Day18ErrorQuiz.java<br>Day18CafeOrder.java          | Array-based café order with place, cancel and total               |
