@@ -27,3 +27,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-04-28 | Day 18 - Café Order                      | Day18ErrorQuiz.java<br>Day18CafeOrder.java          | Array-based café order with place, cancel and total               |
 | 2026-04-29 | Day 19 - Fruit Shop                      | Day19ErrorQuiz.java<br>Day19FruitShop.java          | Basic class with constructor, getters, setter and this keyword    |
 | 2026-04-30 | Day 20 - Library                         | Day20ErrorQuiz.java<br>Day20Library.java            | Class with constructor, this keyword, getters, if guard in method |
+| 2026-05-01 | Day 21 - Gym Membership                  | Day21ErrorQuiz.java<br>Day21GymMembership.java      | Boolean state, assignment vs comparison bug, getters, constructor |
