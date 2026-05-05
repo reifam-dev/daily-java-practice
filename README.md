@@ -31,3 +31,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-02 | Day 22 - Hotel Booking                   | Day22ErrorQuiz.java<br>Day22HotelBooking.java       | this keyword in constructor, == vs = bug, boolean state, guard clause     |
 | 2026-05-03 | Day 23 - Score Tracker                   | Day23ErrorQuiz.java<br>Day23ScoreTracker.java       | this keyword, += vs =+ bug, missing semicolon, guard clause               |
 | 2026-05-04 | Day 24 - Vehicle Tracker                 | Day24ErrorQuiz.java<br>Day24VehicleTracker.java     | this keyword, == vs = bug, missing semicolon, boolean state, guard clause |
+| 2026-05-05 | Day 25 - Stock Inventory                 | Day25ErrorQuiz.java<br>Day25StockInventory.java     | this keyword, =- vs -= bug, static final constant, guard clause           |
