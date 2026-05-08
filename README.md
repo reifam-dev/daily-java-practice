@@ -34,3 +34,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-05 | Day 25 - Stock Inventory                 | Day25ErrorQuiz.java<br>Day25StockInventory.java       | this keyword, =- vs -= bug, static final constant, guard clause           |
 | 2026-05-06 | Day 26 - Appointment Scheduler           | Day26ErrorQuiz.java<br>Day26AppointmentScheduler.java | this keyword, == vs = bug, missing semicolon, rebook method, guard clause |
 | 2026-05-08 | Day 27 - Employee Records                | Day27ErrorQuiz.java<br>Day27EmployeeRecords.java      | this keyword, percentage calculation bug, printf with %%, guard clause    |
+| 2026-05-08 | Day 28 - Ticket Booking                  | Day28ErrorQuiz.java<br>Day28TicketBooking.java        | this keyword, == vs = bug, missing semicolon, rebook method, guard clause |
