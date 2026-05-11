@@ -37,3 +37,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-08 | Day 28 - Ticket Booking                  | Day28ErrorQuiz.java<br>Day28TicketBooking.java        | this keyword, == vs = bug, missing semicolon, rebook method, guard clause |
 | 2026-05-09 | Day 29 - Sports Team                     | Day29ErrorQuiz.java<br>Day29SportsTeam.java           | this keyword, == vs = bug, missing semicolon, rejoin method, guard clause |
 | 2026-05-10 | Day 30 - Bank & Accounts                 | Day30ErrorQuiz.java<br>Day30Bank.java                 | this keyword, =+ vs += bug, missing semicolon, else-if chain, printf      |
+| 2026-05-11 | Day 31 - Product Catalogue               | Day31ErrorQuiz.java<br>Day31ProductCatalogue.java     | toString() override, @Override, String.format(), discount guard clause    |
