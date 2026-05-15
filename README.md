@@ -40,3 +40,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-11 | Day 31 - Product Catalogue               | Day31ErrorQuiz.java<br>Day31ProductCatalogue.java     | toString() override, @Override, String.format(), discount guard clause     |
 | 2026-05-12 | Day 32 - Zoo                             | Day32ErrorQuiz.java<br>Day32Zoo.java                  | static method, @Override toString(), String.format() with %d, =+ vs += bug |
 | 2026-05-13 | Day 33 - Online Shop                     | Day33ErrorQuiz.java<br>Day33OnlineShop.java           | getTotalValue(), sell with guard clause, restock, toString() override      |
+| 2026-05-15 | Day 34 - Notification System             | Day34ErrorQuiz.java<br>Day34NotificationSystem.java   | equals() override, Comparable interface, compareTo(), Collections.sort()   |
