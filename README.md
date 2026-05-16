@@ -42,3 +42,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-13 | Day 33 - Online Shop                     | Day33ErrorQuiz.java<br>Day33OnlineShop.java           | getTotalValue(), sell with guard clause, restock, toString() override          |
 | 2026-05-15 | Day 34 - Notification System             | Day34ErrorQuiz.java<br>Day34NotificationSystem.java   | equals() override, Comparable interface, compareTo(), Collections.sort()       |
 | 2026-05-15 | Day 35 - Auction System                  | Day35ErrorQuiz.java<br>Day35AuctionSystem.java        | Double.compare() for doubles, Comparable, Collections.max(), equals() override |
+| 2026-05-16 | Day 36 - Iterator                        | Day36ErrorQuiz.java<br>Day36Iterator.java             | hasNext()/next() pattern, current++, current--, ArrayList Iterator, reset      |
