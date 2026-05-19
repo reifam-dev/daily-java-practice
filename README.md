@@ -45,3 +45,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-16 | Day 36 - Iterator                        | Day36ErrorQuiz.java<br>Day36Iterator.java             | hasNext()/next() pattern, current++, current--, ArrayList Iterator, reset       |
 | 2026-05-17 | Day 37 - Inventory Generator             | Day37ErrorQuiz.java<br>Day37InventoryGenerator.java   | this keyword, =+ vs += bug, toString() with null field, for-each with ArrayList |
 | 2026-05-18 | Day 38 - Decorator                       | Day38ErrorQuiz.java<br>Day38Decorator.java            | this keyword, =+ vs += bug, toString() null field, ArrayList transaction log    |
+| 2026-05-19 | Day 39 - Context Manager                 | Day39ErrorQuiz.java<br>Day39ContextManager.java       | this keyword, == vs = bug, missing semicolon, AutoCloseable, try-with-resources |
