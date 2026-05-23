@@ -48,3 +48,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-19 | Day 39 - Context Manager                 | Day39ErrorQuiz.java<br>Day39ContextManager.java       | this keyword, == vs = bug, missing semicolon, AutoCloseable, try-with-resources |
 | 2026-05-20 | Day 40 - Property Manager                | Day40ErrorQuiz.java<br>Day40PropertyManager.java      | this keyword, = vs =+ bug, missing semicolon, Math.PI, computed getters         |
 | 2026-05-23 | Day 41 - Shape Factory                   | Day41ErrorQuiz.java<br>Day41ShapeFactory.java         | abstract class, abstract methods, @Override, instanceof, Math.sqrt()            |
+| 2026-05-23 | Day 42 - Interface Segregation           | Day42ErrorQuiz.java<br>Day42InterfaceSegregation.java | interface keyword, implements multiple interfaces, instanceof with cast         |
