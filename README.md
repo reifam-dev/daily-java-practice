@@ -51,3 +51,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-23 | Day 42 - Interface Segregation           | Day42ErrorQuiz.java<br>Day42InterfaceSegregation.java | interface keyword, implements multiple interfaces, instanceof with cast         |
 | 2026-05-23 | Day 43 - Observer Pattern                | Day43ErrorQuiz.java<br>Day43ObserverPattern.java      | Observer interface, ArrayList of observers, notifyAll, register/unregister      |
 | 2026-05-24 | Day 44 - Strategy Pattern                | Day44ErrorQuiz.java<br>Day44StrategyPattern.java      | interface as strategy, Arrays.copyOf(), Arrays.toString(), setStrategy()        |
+| 2026-05-25 | Day 45 - Command Pattern                 | Day45ErrorQuiz.java<br>Day45CommandPattern.java       | Command interface, execute/undo, ArrayList history, remove(size-1)              |
