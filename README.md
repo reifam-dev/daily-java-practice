@@ -53,3 +53,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-24 | Day 44 - Strategy Pattern                | Day44ErrorQuiz.java<br>Day44StrategyPattern.java      | interface as strategy, Arrays.copyOf(), Arrays.toString(), setStrategy()        |
 | 2026-05-25 | Day 45 - Command Pattern                 | Day45ErrorQuiz.java<br>Day45CommandPattern.java       | Command interface, execute/undo, ArrayList history, remove(size-1)              |
 | 2026-05-27 | Day 46 - Singleton Pattern               | Day46ErrorQuiz.java<br>Day46SingletonPattern.java     | private constructor, static getInstance(), HashMap, == for same instance check  |
+| 2026-05-27 | Day 47 - Composite Pattern               | Day47ErrorQuiz.java<br>Day47CompositePattern.java     | FileSystemItem interface, File leaf, Folder composite, recursive getSize()      |
