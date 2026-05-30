@@ -55,3 +55,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-27 | Day 46 - Singleton Pattern               | Day46ErrorQuiz.java<br>Day46SingletonPattern.java     | private constructor, static getInstance(), HashMap, == for same instance check  |
 | 2026-05-27 | Day 47 - Composite Pattern               | Day47ErrorQuiz.java<br>Day47CompositePattern.java     | FileSystemItem interface, File leaf, Folder composite, recursive getSize()      |
 | 2026-05-28 | Day 48 - Proxy Pattern                   | Day48ErrorQuiz.java<br>Day48ProxyPattern.java         | interface as proxy contract, lazy initialisation, null check, ArrayList log     |
+| 2026-05-30 | Day 49 - Callable Decorator              | Day49ErrorQuiz.java<br>Day49CallableDecorator.java    | this keyword, =+ vs ++ bug, callCount++, RateLimit with RuntimeException        |
