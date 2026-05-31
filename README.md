@@ -57,3 +57,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-28 | Day 48 - Proxy Pattern                   | Day48ErrorQuiz.java<br>Day48ProxyPattern.java         | interface as proxy contract, lazy initialisation, null check, ArrayList log               |
 | 2026-05-30 | Day 49 - Callable Decorator              | Day49ErrorQuiz.java<br>Day49CallableDecorator.java    | this keyword, =+ vs ++ bug, callCount++, RateLimit with RuntimeException                  |
 | 2026-05-30 | Day 50 - Slots & Memory                  | Day50ErrorQuiz.java<br>Day50Slots.java                | final fields, immutable class, final keyword, equals() override, IllegalArgumentException |
+| 2026-05-31 | Day 51 - Metaclass                       | Day51ErrorQuiz.java<br>Day51Metaclass.java            | this keyword, =+ vs ++ bug, HashMap, containsKey(), getOrDefault()                        |
