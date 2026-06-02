@@ -59,3 +59,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-05-30 | Day 50 - Slots & Memory                  | Day50ErrorQuiz.java<br>Day50Slots.java                | final fields, immutable class, final keyword, equals() override, IllegalArgumentException |
 | 2026-05-31 | Day 51 - Metaclass                       | Day51ErrorQuiz.java<br>Day51Metaclass.java            | this keyword, =+ vs ++ bug, HashMap, containsKey(), getOrDefault()                        |
 | 2026-06-01 | Day 52 - Dataclass                       | Day52ErrorQuiz.java<br>Day52DataClass.java            | final fields, missing this, => vs >= bug, ArrayList<Double>, Comparable                   |
+| 2026-06-02 | Day 53 - NamedTuple                      | Day53ErrorQuiz.java<br>Day53NamedTuple.java           | final class, final fields, withRaise() copy pattern, Comparable, equals()                 |
