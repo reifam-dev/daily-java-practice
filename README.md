@@ -61,3 +61,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-01 | Day 52 - Dataclass                       | Day52ErrorQuiz.java<br>Day52DataClass.java            | final fields, missing this, => vs >= bug, ArrayList<Double>, Comparable                   |
 | 2026-06-02 | Day 53 - NamedTuple                      | Day53ErrorQuiz.java<br>Day53NamedTuple.java           | final class, final fields, withRaise() copy pattern, Comparable, equals()                 |
 | 2026-06-03 | Day 54 - Functools                       | Day54ErrorQuiz.java<br>Day54Functools.java            | this keyword, =* invalid operator, =+ vs += bug, HashMap cache, Adder partial             |
+| 2026-06-04 | Day 55 - Typing Generics                 | Day55ErrorQuiz.java<br>Day55TypingGenerics.java       | Generic class Stack<T>, ArrayList<T>, remove(size-1), peek(), RuntimeException            |
