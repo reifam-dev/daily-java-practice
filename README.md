@@ -65,3 +65,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-05 | Day 56 - Collections Module              | Day56ErrorQuiz.java<br>Day56Collections.java          | HashMap frequency, getOrDefault(), ArrayDeque, pollFirst(), addFirst()                    |
 | 2026-06-07 | Day 57 - Itertools Module                | Day57ErrorQuiz.java<br>Day57Itertools.java            | nested loops for cartesian product, running total, chain lists, combinations              |
 | 2026-06-07 | Day 58 - Pathlib & File I/O              | Day58ErrorQuiz.java<br>Day58Pathlib.java              | Files.writeString(), readString(), readAllLines(), try-with-resources, NIO.2              |
+| 2026-06-08 | Day 59 - Regex                           | Day59ErrorQuiz.java<br>Day59Regex.java                | Pattern.compile(), Matcher.find(), group(), replaceAll(), matches()                       |
