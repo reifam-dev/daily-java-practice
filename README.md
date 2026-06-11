@@ -68,3 +68,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-08 | Day 59 - Regex                           | Day59ErrorQuiz.java<br>Day59Regex.java                | Pattern.compile(), Matcher.find(), group(), replaceAll(), matches()                       |
 | 2026-06-09 | Day 60 - File Parser                     | Day60ErrorQuiz.java<br>Day60FileParser.java           | this keyword, =* invalid, = vs .equals(), putIfAbsent(), HashMap summary                  |
 | 2026-06-10 | Day 61 - Enum Module                     | Day61ErrorQuiz.java<br>Day61EnumModule.java           | this keyword, missing semicolons, enum with constructor, values(), ordinal()              |
+| 2026-06-11 | Day 62 - ABC Revisited                   | Day62ErrorQuiz.java<br>Day62AbcRevisited.java         | abstract class, missing method implementation, this keyword, describe() override          |
