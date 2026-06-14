@@ -71,3 +71,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-11 | Day 62 - ABC Revisited                   | Day62ErrorQuiz.java<br>Day62AbcRevisited.java          | abstract class, missing method implementation, this keyword, describe() override          |
 | 2026-06-12 | Day 62 - Attribute Interception          | Day63ErrorQuiz.java<br>Day63AttributeInterception.java | this keyword, frozen flag guard, ArrayList log, setters with logging                      |
 | 2026-06-13 | Day 64 - Container Protocol              | Day64ErrorQuiz.java<br>Day64ContainerProtocol.java     | this keyword, =+ bug, getOrDefault(), LinkedHashMap, Matrix bounds check                  |
+| 2026-06-14 | Day 65 - Copy Module                     | Day65ErrorQuiz.java<br>Day65CopyModule.java            | this keyword, shared array reference, Arrays.copyOf(), deep vs shallow copy               |
