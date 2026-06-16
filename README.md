@@ -73,3 +73,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-13 | Day 64 - Container Protocol              | Day64ErrorQuiz.java<br>Day64ContainerProtocol.java     | this keyword, =+ bug, getOrDefault(), LinkedHashMap, Matrix bounds check                                  |
 | 2026-06-14 | Day 65 - Copy Module                     | Day65ErrorQuiz.java<br>Day65CopyModule.java            | this keyword, shared array reference, Arrays.copyOf(), deep vs shallow copy                               |
 | 2026-06-15 | Day 66 - Contextlib                      | Day66ErrorQuiz.java<br>Day66Contextlib.java            | this keyword, missing semicolon, null check bug, ByteArrayOutputStream, multi-resource try-with-resources |
+| 2026-06-16 | Day 67 - Threading                       | Day67ErrorQuiz.java<br>Day67Threading.java             | this keyword, =+ vs ++ bug, missing semicolon, AtomicInteger, Thread.join()                               |
