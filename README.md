@@ -75,3 +75,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-15 | Day 66 - Contextlib                      | Day66ErrorQuiz.java<br>Day66Contextlib.java            | this keyword, missing semicolon, null check bug, ByteArrayOutputStream, multi-resource try-with-resources |
 | 2026-06-16 | Day 67 - Threading                       | Day67ErrorQuiz.java<br>Day67Threading.java             | this keyword, =+ vs ++ bug, missing semicolon, AtomicInteger, Thread.join()                               |
 | 2026-06-17 | Day 68 - Logging                         | Day68ErrorQuiz.java<br>Day68Logging.java               | this keyword, missing semicolon, private field access, Logger, ConsoleHandler                             |
+| 2026-06-18 | Day 69 - Unittest                        | Day69ErrorQuiz.java<br>Day69Unittest.java              | this keyword, =+ vs += bug, missing semicolon, Runnable lambda, assertThrows pattern                      |
