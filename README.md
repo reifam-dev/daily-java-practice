@@ -78,3 +78,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-18 | Day 69 - Unittest                        | Day69ErrorQuiz.java<br>Day69Unittest.java               | this keyword, =+ vs += bug, missing semicolon, Runnable lambda, assertThrows pattern                      |
 | 2026-06-21 | Day 70 - SQLite                          | Day70ErrorQuiz.java<br>Day70SQLite.java                 | this keyword, =+ vs += bug, InMemoryDB, removeIf(), HashMap summary                                       |
 | 2026-06-21 | Day 71 - Advanced NumPy                  | Day71ErrorQuiz.java<br>Day71CleanPortfolioAnalyser.java | Array iteration, manual mean/std, ArrayList<Double> filter, cumulative product, toString override         |
+| 2026-06-22 | Day 72 - Pandas Advanced: GroupBy        | Day72ErrorQuiz.java<br>Day72CleanDealAnalyser.java      | ArrayList grouping, manual aggregation, yield computation, toString override                              |
