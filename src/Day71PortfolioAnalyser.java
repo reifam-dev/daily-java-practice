@@ -4,14 +4,14 @@ import java.util.ArrayList;
  * Day 71 – Advanced NumPy equivalents in Java: array operations and statistics.
  * 1Z0-811 standard: private fields, this keyword, getters, ArrayList, toString override.
  */
-public class Day71CleanPortfolioAnalyser {
+public class Day71PortfolioAnalyser {
 
     private String portfolioName;
     private double[] returns;
     private double[] benchmark;
     private int size;
 
-    public Day71CleanPortfolioAnalyser(String portfolioName, double[] returns) {
+    public Day71PortfolioAnalyser(String portfolioName, double[] returns) {
         this.portfolioName = portfolioName;
         this.returns = returns;
         this.size = returns.length;
@@ -91,8 +91,8 @@ public class Day71CleanPortfolioAnalyser {
         double[] returns = {0.05, 0.12, -0.03, 0.08, 0.15, -0.02, 0.09};
         double[] benchmark = {0.04, 0.08, 0.01, 0.06, 0.10, 0.02, 0.07};
 
-        Day71CleanPortfolioAnalyser pa =
-                new Day71CleanPortfolioAnalyser("Growth Fund", returns);
+        Day71PortfolioAnalyser pa =
+                new Day71PortfolioAnalyser("Growth Fund", returns);
         pa.setBenchmark(benchmark);
 
         System.out.println(pa);

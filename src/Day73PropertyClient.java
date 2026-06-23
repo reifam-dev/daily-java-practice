@@ -4,13 +4,13 @@ import java.util.ArrayList;
  * Day 73 – REST API concepts in Java: URL building, response parsing, error handling.
  * 1Z0-811 standard: private fields, this keyword, getters, ArrayList, toString override.
  */
-public class Day73CleanPropertyClient {
+public class Day73PropertyClient {
 
     private String baseUrl;
     private String apiKey;
     private ArrayList<String> requestLog;
 
-    public Day73CleanPropertyClient(String baseUrl, String apiKey) {
+    public Day73PropertyClient(String baseUrl, String apiKey) {
         this.baseUrl = baseUrl;
         this.apiKey = apiKey;
         this.requestLog = new ArrayList<>();
@@ -51,8 +51,8 @@ public class Day73CleanPropertyClient {
     }
 
     public static void main(String[] args) {
-        Day73CleanPropertyClient client =
-                new Day73CleanPropertyClient("https://api.example.com", "abc123");
+        Day73PropertyClient client =
+                new Day73PropertyClient("https://api.example.com", "abc123");
 
         client.logRequest("GET", "properties/1");
         client.logRequest("POST", "deals");

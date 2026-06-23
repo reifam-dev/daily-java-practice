@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Day 72 – Pandas GroupBy equivalent in Java: manual grouping and aggregation.
  * 1Z0-811 standard: private fields, this keyword, getters, ArrayList, toString override.
  */
-public class Day72CleanDealAnalyser {
+public class Day72DealAnalyser {
 
     private String portfolioName;
     private ArrayList<String> sectors;
@@ -12,7 +12,7 @@ public class Day72CleanDealAnalyser {
     private ArrayList<Double> values;
     private ArrayList<Double> incomes;
 
-    public Day72CleanDealAnalyser(String portfolioName) {
+    public Day72DealAnalyser(String portfolioName) {
         this.portfolioName = portfolioName;
         this.sectors = new ArrayList<>();
         this.regions = new ArrayList<>();
@@ -70,7 +70,7 @@ public class Day72CleanDealAnalyser {
     }
 
     public static void main(String[] args) {
-        Day72CleanDealAnalyser da = new Day72CleanDealAnalyser("UK Portfolio");
+        Day72DealAnalyser da = new Day72DealAnalyser("UK Portfolio");
         da.addDeal("Office", "London", 50.0, 3.0);
         da.addDeal("Retail", "Manchester", 30.0, 2.1);
         da.addDeal("Industrial", "Birmingham", 80.0, 4.8);
