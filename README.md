@@ -80,3 +80,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-21 | Day 71 - Advanced NumPy                  | Day71ErrorQuiz.java<br>Day71PortfolioAnalyser.java     | np.array dtype, broadcasting, boolean indexing, mean/std/prod, Sharpe ratio                               |
 | 2026-06-22 | Day 72 - Pandas Advanced: GroupBy        | Day72ErrorQuiz.java<br>Day72DealAnalyser.java          | groupby().agg(), nlargest(), pivot_table(), sort_values(), yield column                                   |
 | 2026-06-22 | Day 73 - REST API with requests          | Day73ErrorQuiz.java<br>Day73PropertyClient.java        | requests.Session, GET/POST/DELETE, raise_for_status(), json= vs data=, RequestException                   |
+| 2026-06-23 | Day 74 - FastAPI Endpoints               | Day74ErrorQuiz.java<br>Day74DealsApi.java              | FastAPI path/query params, Pydantic BaseModel, HTTPException, route ordering, response_model              |
