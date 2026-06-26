@@ -82,3 +82,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-22 | Day 73 - REST API with requests          | Day73ErrorQuiz.java<br>Day73PropertyClient.java        | requests.Session, GET/POST/DELETE, raise_for_status(), json= vs data=, RequestException                   |
 | 2026-06-23 | Day 74 - FastAPI Endpoints               | Day74ErrorQuiz.java<br>Day74DealsApi.java              | FastAPI path/query params, Pydantic BaseModel, HTTPException, route ordering, response_model              |
 | 2026-06-24 | Day 75 - pytest                          | Day75ErrorQuiz.java<br>Day75ValuationTests.java        | IllegalArgumentException, manual assert, try/catch test pattern, toString override                        |
+| 2026-06-26 | Day 76 - Docker Basics                   | Day76ErrorQuiz.java<br>Day76DockerManager.java         | Dockerfile, docker build/run, @dataclass config, docker-compose, StringBuilder                            |
