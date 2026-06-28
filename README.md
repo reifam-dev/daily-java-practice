@@ -85,3 +85,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-26 | Day 76 - Docker Basics                   | Day76ErrorQuiz.java<br>Day76DockerManager.java         | Dockerfile, docker build/run, @dataclass config, docker-compose, StringBuilder                            |
 | 2026-06-26 | Day 77 - PostgreSQL psycopg2             | Day77ErrorQuiz.java<br>Day77PropertyDatabase.java      | in-memory CRUD, ArrayList String[], removeIf, printf formatting, toString override                        |
 | 2026-06-27 | Day 78 - LangChain Basics                | Day78ErrorQuiz.java<br>Day78PropertyReportChain.java   | prompt building, ArrayList exchange log, getHistoryByRole, String[] pairs, toString override              |
+| 2026-06-28 | Day 79 - RAG Systems                     | Day79ErrorQuiz.java<br>Day79SimpleRag.java             | cosine similarity, double[] embeddings, ArrayList document store, selection sort top-k                    |
