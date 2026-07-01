@@ -87,3 +87,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-27 | Day 78 - LangChain Basics                | Day78ErrorQuiz.java<br>Day78PropertyReportChain.java   | prompt building, ArrayList exchange log, getHistoryByRole, String[] pairs, toString override              |
 | 2026-06-28 | Day 79 - RAG Systems                     | Day79ErrorQuiz.java<br>Day79SimpleRag.java             | cosine similarity, double[] embeddings, ArrayList document store, selection sort top-k                    |
 | 2026-06-29 | Day 80 - AI Agent Building               | Day80ErrorQuiz.java<br>Day80PropertyAgent.java         | tool registry, ReAct simulation, ArrayList message history, executeTool dispatch, toString                |
+| 2026-07-01 | Day 81 - GitHub Actions CI/CD            | Day81ErrorQuiz.java<br>Day81CiPipelineManager.java     | step registry, ArrayList workflow, ruff lint, docker build, validateStep, toString                        |
