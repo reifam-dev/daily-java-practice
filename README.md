@@ -91,3 +91,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-07-01 | Day 82 - NumPy Advanced                  | Day82ErrorQuiz.java<br>Day82PortfolioOptimiser.java    | manual variance, volatility, Sharpe ratio, Math.sqrt, Math.pow, printf stats                              |
 | 2026-07-05 | Day 83 - Pandas Time Series              | Day83ErrorQuiz.java<br>Day83TimeSeriesAnalyser.java    | cumulative return, rolling average, maxDrawdown, Math.pow, ArrayList series                               |
 | 2026-07-05 | Day 84 - Environment Management          | Day84ErrorQuiz.java<br>Day84ApiConfig.java             | HashMap config, .equals() vs ==, key masking, validate, getOrDefault, toString                            |
+| 2026-07-06 | Day 85 - Pandas Merge and Join           | Day85ErrorQuiz.java<br>Day85DealMerger.java            | HashMap join simulation, filterBySector, meanValue, innerJoin, printf table                               |
