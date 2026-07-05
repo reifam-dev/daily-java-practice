@@ -89,3 +89,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-06-29 | Day 80 - AI Agent Building               | Day80ErrorQuiz.java<br>Day80PropertyAgent.java         | tool registry, ReAct simulation, ArrayList message history, executeTool dispatch, toString                |
 | 2026-07-01 | Day 81 - GitHub Actions CI/CD            | Day81ErrorQuiz.java<br>Day81CiPipelineManager.java     | step registry, ArrayList workflow, ruff lint, docker build, validateStep, toString                        |
 | 2026-07-01 | Day 82 - NumPy Advanced                  | Day82ErrorQuiz.java<br>Day82PortfolioOptimiser.java    | manual variance, volatility, Sharpe ratio, Math.sqrt, Math.pow, printf stats                              |
+| 2026-07-05 | Day 83 - Pandas Time Series              | Day83ErrorQuiz.java<br>Day83TimeSeriesAnalyser.java    | cumulative return, rolling average, maxDrawdown, Math.pow, ArrayList series                               |
