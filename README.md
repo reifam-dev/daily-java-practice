@@ -94,3 +94,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-07-06 | Day 85 - Pandas Merge and Join           | Day85ErrorQuiz.java<br>Day85DealMerger.java            | HashMap join simulation, filterBySector, meanValue, innerJoin, printf table                               |
 | 2026-07-06 | Day 86 - Descriptor Protocol             | Day86ErrorQuiz.java<br>Day86DescriptorProtocol.java    | validated setters, final read-only, isBlank, IllegalArgumentException, toString override                  |
 | 2026-07-07 | Day 87 - Generators and Itertools        | Day87ErrorQuiz.java<br>Day87DealPipeline.java          | runningTotal, chunked, topN, subList, sort lambda, ArrayList pipeline                                     |
+| 2026-07-07 | Day 88 - Metaclasses                     | Day88ErrorQuiz.java<br>Day88Metaclasses.java           | Singleton pattern, static instance, HashMap registry, validated config, IllegalArgumentException          |
