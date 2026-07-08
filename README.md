@@ -95,3 +95,4 @@ Daily Java coding practice using IntelliJ — quizzes, error fixing, full apps f
 | 2026-07-06 | Day 86 - Descriptor Protocol             | Day86ErrorQuiz.java<br>Day86DescriptorProtocol.java    | validated setters, final read-only, isBlank, IllegalArgumentException, toString override                  |
 | 2026-07-07 | Day 87 - Generators and Itertools        | Day87ErrorQuiz.java<br>Day87DealPipeline.java          | runningTotal, chunked, topN, subList, sort lambda, ArrayList pipeline                                     |
 | 2026-07-07 | Day 88 - Metaclasses                     | Day88ErrorQuiz.java<br>Day88Metaclasses.java           | Singleton pattern, static instance, HashMap registry, validated config, IllegalArgumentException          |
+| 2026-07-08 | Day 89 - asyncio                         | Day89ErrorQuiz.java<br>Day89PropertyDataFetcher.java   | CompletableFuture, supplyAsync, allOf, join, ExecutionException, concurrent fetch                         |
